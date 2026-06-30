@@ -1,1 +1,3 @@
 # Python-mini-project
+Smart City Route Finder is a Python console application that finds the best route between locations in a city by running and comparing four classic AI search algorithms — BFS, DFS, UCS, and A*. It models the city as a weighted graph, calculates a dynamic heuristic for any start/goal pair, and prints a side-by-side comparison of each algorithm's path, cost, and efficiency.
+Through this project, I learned how to apply core Python concepts — control flow, functions, and data structures like dictionaries and sets — to solve a real search problem, and gained hands-on understanding of how uninformed search (BFS, DFS, UCS) differs from informed search (A*) in both performance and optimality.
